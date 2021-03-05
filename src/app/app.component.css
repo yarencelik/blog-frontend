@@ -1,0 +1,16 @@
+body{
+    background-color: black!important;
+}
+p {
+    font-family: Lato;
+  }
+  
+  button {
+    position: fixed;
+    bottom: 5px;
+    right: 5px;
+    font-size: 20px;
+    text-align: center;
+    outline: none;
+    border: none;
+  }
